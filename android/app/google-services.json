@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340904353172",
+    "project_id": "questionnaire5",
+    "storage_bucket": "questionnaire5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340904353172:android:d11b85e713ac1b0da88381",
+        "android_client_info": {
+          "package_name": "com.example.questionnaire_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBlPfodMPO9mVFUIX3NvDJL70NSNLSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
